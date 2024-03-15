@@ -1,4 +1,4 @@
-# Content-Security-Policy for Sovendus Voucher Network and Checkout Benefits
+# Content Security Policy for Voucher Network and Checkout Benefits
 
 ## Headers
 
